@@ -9,3 +9,6 @@ Anaconda にBottleをインストール
 ```
 conda install -c conda-forge bottle
 ```
+
+## flask
+pip install -U flask===1.1.2
